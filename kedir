@@ -1,9 +1,0 @@
-#include <iostram>
-uising namespoace std;
-
-
-int main (){
-
-cout<< "Hello World"<<endl;
-
-}
